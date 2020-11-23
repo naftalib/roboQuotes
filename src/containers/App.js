@@ -35,7 +35,7 @@ class App extends Component {
         <div className='tc'>
           <Logo />
           <h1 className='f1'>Robo Quotes</h1>
-          <h6 className='f3'>Click on a card to get a quote</h6>
+          <p className='f3'>Click on a card to get a quote</p>
           <SearchBox searchChange={this.onSearchChange}/>
           <Scroll>
             <CardList robots={filteredRobots} />

@@ -3,9 +3,9 @@ body {
   padding: 0;
   font-family: sans-serif;
 /*  background: #172a30;
-*/  background: linear-gradient(to bottom,black,#172a30); 
+*/  background: linear-gradient(to top,black,#172a30); 
 }
 
 .pa1{
-	margin-bottom: 30px;
+	margin-bottom: 2em;
 }
