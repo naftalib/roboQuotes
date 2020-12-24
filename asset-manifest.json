@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/roboQuotes/static/css/main.9f8b64b3.chunk.css",
-    "main.js": "/roboQuotes/static/js/main.772743bd.chunk.js",
-    "main.js.map": "/roboQuotes/static/js/main.772743bd.chunk.js.map",
+    "main.css": "/roboQuotes/static/css/main.9e002e3d.chunk.css",
+    "main.js": "/roboQuotes/static/js/main.98f02b54.chunk.js",
+    "main.js.map": "/roboQuotes/static/js/main.98f02b54.chunk.js.map",
     "runtime-main.js": "/roboQuotes/static/js/runtime-main.9acd9e7f.js",
     "runtime-main.js.map": "/roboQuotes/static/js/runtime-main.9acd9e7f.js.map",
     "static/css/2.31461e4f.chunk.css": "/roboQuotes/static/css/2.31461e4f.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.7a593be3.chunk.js.map": "/roboQuotes/static/js/2.7a593be3.chunk.js.map",
     "index.html": "/roboQuotes/index.html",
     "static/css/2.31461e4f.chunk.css.map": "/roboQuotes/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.9f8b64b3.chunk.css.map": "/roboQuotes/static/css/main.9f8b64b3.chunk.css.map",
+    "static/css/main.9e002e3d.chunk.css.map": "/roboQuotes/static/css/main.9e002e3d.chunk.css.map",
     "static/js/2.7a593be3.chunk.js.LICENSE.txt": "/roboQuotes/static/js/2.7a593be3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9acd9e7f.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.7a593be3.chunk.js",
-    "static/css/main.9f8b64b3.chunk.css",
-    "static/js/main.772743bd.chunk.js"
+    "static/css/main.9e002e3d.chunk.css",
+    "static/js/main.98f02b54.chunk.js"
   ]
 }
